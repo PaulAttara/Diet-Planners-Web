@@ -1,4 +1,4 @@
-# dietplanners-web
+# Diet Planners Web Frontend
 
 > A Vue.js web frontend for Diet Planning App
 
